@@ -22,7 +22,7 @@ paginate: true
 # Les cas d'usage: intégration outil de data visualisation, requête multi catalogue, détection de nouveaux usages (IA, Opérationnel, ... )
 
 ---
-# Une démo vaut tous les mots 
+# Démo 
 
 ---
 # Les limites d'une solution de data virtualization 
